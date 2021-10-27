@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head><title>Hai vi</title>
-<!-- Created By L3M4R1 -->
+<!-- Created By KIAN -->
 <script>alert ('hai')
 alert ('Ini isi hatiku yang sesungguhnya')</script>
 <script language="JavaScript"> 
@@ -12,13 +12,13 @@ function tb5_makeArray(n){
 }
  
 tb5_messages = new tb5_makeArray(7);
-tb5_messages[0] = "Hay Via";
+tb5_messages[0] = "Hay KAK";
 tb5_messages[1] = "Aku Mau Kamu Tau";
-tb5_messages[2] = "Aku Sayang Sama Kamu";
-tb5_messages[3] = "Aku Serius Vi";
-tb5_messages[4] = "Kamu Mau Ngga Jadi Pacar ku";
-tb5_messages[5] = "Aku berharap kamu menerimanya";
-tb5_messages[6] = "I Love You via!!!";
+tb5_messages[2] = "Aku Sayang Sama Kaka";
+tb5_messages[3] = "Aku Serius KAK";
+tb5_messages[4] = "Kaka Mau Ngga Jadi Temen baik Aku ";
+tb5_messages[5] = "Aku berharap Kaka menerimanya";
+tb5_messages[6] = "I Love You kak !!!";
 tb5_rptType = 'infinite';
 tb5_rptNbr = 20;
 tb5_speed = 30;
